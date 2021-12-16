@@ -1,0 +1,3 @@
+Web Programlama Projesi
+
+Proje blog yazılarını gösterebilen ve oluşturabilen, üye olunabilen ve yazılara yorum yapılabilen, admin panel bulunduran bir blog sitesidir.
